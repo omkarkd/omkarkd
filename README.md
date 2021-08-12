@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omkar Kadam.
 - 👀 Looking For an Position in Data Science Domain .
-- 🌱 I’m currently learning serving as an intern and have gained a experience on Designing and Developing Dashboards.
+- 🌱 Have an Experience Developing Dashboards and Designing AI Applications.
 - 📫 How to reach me ...
 LinkedIN : https://www.linkedin.com/in/omkar-kadam05/
 Mail : kadam.omkar05@gmail.com
